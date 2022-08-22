@@ -1,0 +1,13 @@
+Node js topics:
+
+1. what is node js?
+2. use of node js?
+3. node js installation  and vs code installation?
+4. web-application?
+5. variables
+6. datatypes
+7. type of
+8. function
+9. diff types of function
+10. arithmetic operator
+11. conditional statement 
